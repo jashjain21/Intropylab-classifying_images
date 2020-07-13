@@ -36,3 +36,9 @@
 * vgg_uploaded-images.txt			: Stats for uploaded_images on vgg architecture
 
 So basically run the run_models_batch file for printing out the results of the performance of the 3 models and run the run_models_batch_uploaded to test your own images against various networks.Name the file with the content of the images
+
+Author:
+Jash Jain [linkedin](https://www.linkedin.com/in/jash-jain-bb659a132)
+
+License
+This project is licensed under the MIT License - see the LICENSE.md file for details.
