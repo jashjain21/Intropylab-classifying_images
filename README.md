@@ -34,3 +34,5 @@
           							  will accept are: 'resnet', 'alexnet', and 'vgg'. See the example usage below.
 * vgg_pet-images.txt				: Stats for pet_images on vgg architecture
 * vgg_uploaded-images.txt			: Stats for uploaded_images on vgg architecture
+
+So basically run the run_models_batch file for printing out the results of the performance of the 3 models and run the run_models_batch_uploaded to test your own images against various networks.Name the file with the content of the images
